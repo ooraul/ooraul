@@ -40,9 +40,9 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/RaulCesar1/RaulCesar1/blob/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github.com/RaulCesar1/RaulCesar1/blob/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
 
