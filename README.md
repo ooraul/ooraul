@@ -33,9 +33,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://github.com/RaulCesar1/RaulCesar1/blob/output/snake.svg" alt="Snake animation" />
-</div>
-
-###
