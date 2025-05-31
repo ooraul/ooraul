@@ -4,6 +4,8 @@
   I'm Raul, 17, from Brazil 🇧🇷
 </p>
 
+<br>
+
 <p align="left">
   📌 Languages: <strong>JavaScript, Python</strong>
 </p>
