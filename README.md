@@ -1,10 +1,23 @@
-<h1 align="center">Hi 👋 I'm Raul</h1>
+<img src="https://github.com/ooraul/ooraul/blob/79fb8416da157ed1d26784e93716b2eecc08dcf3/imagem.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-###
+<p align="left"> 
+  I'm Raul, 17, from Brazil 🇧🇷
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ooraul&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ooraul&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<p align="left">
+  📌 Languages: <strong>JavaScript, Python</strong>
+</p>
 
-###
+<p align="left">
+  ⚒️ Tools: <strong>VSCode, Git, Node.JS, React, Linux</strong>
+</p>
+
+<br>
+
+<p align="left">
+  Email: <a href="mailto:craulg9@gmail.com" title="Email">craulg9@gmail.com</a>
+</p>
+
+<p align="left">
+  Discord: <a href="https://discord.com/users/1207430409143718010" title="Discord">@ooraul</a>
+</p>
