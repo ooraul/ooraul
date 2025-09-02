@@ -1,7 +1,7 @@
 <img src="https://github.com/ooraul/ooraul/blob/79fb8416da157ed1d26784e93716b2eecc08dcf3/imagem.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  I'm Raul, 17, from Brazil 🇧🇷
+  I'm Raul, 18, from Brazil 🇧🇷
 </p>
 
 <br>
