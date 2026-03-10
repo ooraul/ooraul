@@ -7,11 +7,11 @@
 <br>
 
 <p align="left">
-  📌 Languages: <strong>JavaScript, Python</strong>
+  📌 Tech: <strong>Javascript/Typescript, Java, Python, Node.js, Next.js, Spring Boot</strong>
 </p>
 
 <p align="left">
-  ⚒️ Tools: <strong>VSCode, Git, Node.JS, React, Linux</strong>
+  ⚒️ Tools: <strong>VSCode, Git, Docker, Linux</strong>
 </p>
 
 <br>
